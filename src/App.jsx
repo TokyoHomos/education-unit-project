@@ -19,6 +19,7 @@ export default function App() {
           <Route path="/ai-learning"  element={<AILearningPage />} />
           <Route path="/3d-lab"       element={<Generative3DPage />} />
           <Route path="/assessment"   element={<AssessmentPage />} />
+          <Route path="/assessment"   element={<AssessmentPage />} />
         </Routes>
       </BrowserRouter>
     </LanguageProvider>

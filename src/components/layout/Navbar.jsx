@@ -9,12 +9,13 @@ export default function Navbar() {
   const n = T[lang].nav;
 
   const NAV_LINKS = [
-    { to: '/',               label: n.home },
-    { to: '/traditional',    label: n.traditional },
-    { to: '/computerized',   label: n.computerized },
-    { to: '/ai-learning',    label: n.aiLearning },
-    { to: '/3d-lab',         label: n.lab3d },
-    { to: '/assessment',     label: n.assessment },
+    { to: '/',                label: n.home },
+    { to: '/traditional',     label: n.traditional },
+    { to: '/computerized',    label: n.computerized },
+    { to: '/ai-learning',     label: n.aiLearning },
+    { to: '/3d-lab',          label: n.lab3d },
+    { to: '/assessment',      label: n.assessment },
+    { to: '/learning-design', label: lang === 'ar' ? 'تصميم التعلم' : 'Learning Design' },
   ];
 
   return (

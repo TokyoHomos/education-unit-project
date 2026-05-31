@@ -23,7 +23,7 @@ export default function Navbar() {
       <div className="nav-container">
         <div className="nav-logo">
           <span className="logo-icon">⬡</span>
-          <span className="logo-text">NeuralCore</span>
+          <span className="logo-text">HardwareUnite</span>
           <span className="logo-badge">EDU</span>
         </div>
 

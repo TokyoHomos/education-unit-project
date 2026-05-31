@@ -94,7 +94,7 @@ export const T = {
     /* ── Footer ── */
     footer: {
       desc: 'The most advanced AI-powered PC hardware learning platform. Built for the next generation of engineers and enthusiasts.',
-      copy: '© 2025 NeuralCore Educational Platform. Built for the future of learning.',
+      copy: '© 2025 HardwareUnite Academy Educational Platform. Built for the future of learning.',
       sections: { Learning: 'Learning', Platform: 'Platform', Topics: 'Topics' },
     },
 

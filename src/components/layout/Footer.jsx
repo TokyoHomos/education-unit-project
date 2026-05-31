@@ -13,7 +13,7 @@ export default function Footer() {
         <div className="footer-brand">
           <div className="footer-logo">
             <span style={{ color:'var(--neon-blue)',filter:'drop-shadow(0 0 8px var(--neon-blue))' }}>⬡</span>
-            NeuralCore
+            HardwareUnite
           </div>
           <p className="footer-desc">{f.desc}</p>
         </div>
@@ -30,7 +30,7 @@ export default function Footer() {
 
       <div className="footer-bottom">
         <span>{f.copy}</span>
-        <span style={{ color:'var(--neon-blue)' }}>⬡ NeuralCore EDU</span>
+        <span style={{ color:'var(--neon-blue)' }}>HUSSAIN HARDWARE ACADEMY</span>
       </div>
     </footer>
   );

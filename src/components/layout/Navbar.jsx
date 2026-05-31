@@ -15,7 +15,7 @@ export default function Navbar() {
     { to: '/ai-learning',     label: n.aiLearning },
     { to: '/3d-lab',          label: n.lab3d },
     { to: '/assessment',      label: n.assessment },
-    { to: '/learning-design', label: lang === 'ar' ? 'تصميم التعلم' : 'Learning Design' },
+    { to: '/learning-design', label: lang === 'ar' ? 'تخطيتات الدروس' : 'Lessons Plan' },
   ];
 
   return (

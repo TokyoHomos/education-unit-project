@@ -8,10 +8,10 @@ import { useLang } from '../context/LanguageContext';
 ───────────────────────────────────────────────────────────── */
 const LD = {
   en: {
-    nav: 'Learning Design',
+    nav: 'Lessons Plan',
     hero: {
-      tag:      'Learning Design',
-      title:    'Learning Design',
+      tag:      'Lessons Plan',
+      title:    'Lessons Plan',
       subtitle: 'Explore four distinct educational approaches — from traditional classroom instruction to AI-generated personalised learning. Select a methodology below to design, plan, and assess your lessons.',
     },
     approaches: [
@@ -247,10 +247,10 @@ const LD = {
      ARABIC
   ══════════════════════════════════════════════════════ */
   ar: {
-    nav: 'تصميم التعلم',
+    nav: 'تخطيتات الدروس',
     hero: {
-      tag:      'تصميم التعلم',
-      title:    'تصميم التعلم',
+      tag:      'تخطيطات الدروس باربع طرق تعليمية',
+      title:    'تخطيطات الدروس باربع طرق تعليمية',
       subtitle: 'استكشف أربعة مناهج تعليمية متميزة — من التعليم التقليدي في الفصل إلى التعلم المُولَّد بالذكاء الاصطناعي. اختر منهجية أدناه لتصميم دروسك وتخطيطها وتقييمها.',
     },
     approaches: [
